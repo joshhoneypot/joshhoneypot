@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joshhoneypot
+- 👀 I’m interested in Cyber Security and Software Development
+- 🌱 I’m currently learning Software Engeenring 
+- 💞️ I’m looking to collaborate on any software development project mostly backend 
+- 📫 You can reach me on my email : joshuaangugo@gmail.com
