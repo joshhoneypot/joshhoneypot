@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshhoneypot
+- 👋 Hi, I’m Joshua Ochieng'
 - 👀 I’m interested in Cyber Security and Software Development
 - 🌱 I’m currently learning Software Engeenring 
 - 💞️ I’m looking to collaborate on any software development project mostly backend 
